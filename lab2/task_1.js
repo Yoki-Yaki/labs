@@ -1,5 +1,5 @@
 'use strict';
 
-const name = "Alex";
+let name = "Alex";
 
 console.log({name});
