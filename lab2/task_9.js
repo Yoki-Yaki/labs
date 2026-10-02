@@ -9,7 +9,7 @@ const phoneBook = [
 
 const findPhoneByName = (name) => {
     for (let i = 0; i < phoneBook.length; i++) {
-        if (phoneBook[i].name === name) {
+        if (phoneBook[i].name == name) {
             return phoneBook[i].phone;
         }
     }
