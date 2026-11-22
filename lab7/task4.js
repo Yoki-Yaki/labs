@@ -1,3 +1,5 @@
+'use strict';
+
 const array1 = [7, -2, 10, 5, 0];
 const array2 = [0, 10];
 
